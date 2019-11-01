@@ -6,8 +6,8 @@
 
 body {
 	font-size: 16px;
-	color: #404a49;
-	font-family: 'Cousine', serif;
+	color: #504a49;
+	font-family: 'Helvetica', serif;
 	font-weight: 400;
 }
 .container {
@@ -42,8 +42,8 @@ footer {
 
 .button {
 	padding: 8px 10px 6px 10px;
-	background: #678f89;
-	border: 2px solid #678f89;
+	background: #DC143C;
+	border: 2px solid #DC143C;
 	border-radius: 4px;
 	text-decoration: none;
 	color: #FFF;
@@ -52,9 +52,9 @@ footer {
 	font-size: 14px;
 }
 .button.button-secondary {
-	background: #FFF;
-	border: 2px solid #e1e1e1;
-	color: #404a49;
+	background: #DC143C;
+	border: 2px solid #DC143C;
+	color: #FFF;
 }
 .button.icon-right {
 	padding-right: 30px;
@@ -88,7 +88,7 @@ h1,
 h2,
 h3 {
 	margin: 0;
-	font-weight: 400;
+	font-weight: 500;
 	line-height: 1em;
 	color: #000;
 }
@@ -224,17 +224,3 @@ form textarea:hover {
 input[type=submit] {
 	margin-right: 5px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
